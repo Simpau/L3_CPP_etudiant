@@ -1,0 +1,8 @@
+#ifndef FIGUREGEOMETRIQUE_HPP_
+#define FIGUREGEOMETRIQUE_HPP_
+
+Class FigureGeometrique{
+
+};
+
+#endif

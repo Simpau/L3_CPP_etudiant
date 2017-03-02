@@ -1,0 +1,3 @@
+#include "PolygoneRegulier.hpp"
+#include <iostream>
+

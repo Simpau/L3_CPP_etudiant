@@ -1,0 +1,14 @@
+#ifndef FIGUREGEOMETRIQUE_HPP_
+#define FIGUREGEOMETRIQUE_HPP_
+
+Class FigureGeometrique{
+ private:
+  Couleur _couleur;
+
+ public:
+  FigureGrometrique(const Couleur & couleur);
+  const Couleur & getCouleur() const;
+  
+};
+
+#endif

@@ -1,0 +1,8 @@
+#ifndef POINT_HPP_
+#define POINT_HPP_
+
+Struct Point{
+  int _x, _y;
+};
+
+#endif

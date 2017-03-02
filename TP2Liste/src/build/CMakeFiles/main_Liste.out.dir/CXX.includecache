@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP2Liste/src/Liste.cpp
+Liste.hpp
+/home/simon/Documents/c++/L3_CPP_etudiant/TP2Liste/src/Liste.hpp
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP2Liste/src/Liste.hpp
+

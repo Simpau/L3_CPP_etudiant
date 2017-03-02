@@ -1,0 +1,5 @@
+ #ifndef LISTE_HPP_
+ #define LISTE_HPP_
+ struct Noeud;
+ struct Liste;
+ #endif

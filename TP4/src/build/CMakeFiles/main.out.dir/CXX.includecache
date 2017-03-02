@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/Couleur.hpp
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/FigureGeometrique.hpp
+Couleur.hpp
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/Couleur.hpp
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/Point.hpp
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/PolygoneRegulier.cpp
+PolygoneRegulier.hpp
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/PolygoneRegulier.hpp
+iostream
+-
+cmath
+-
+
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/PolygoneRegulier.hpp
+FigureGeometrique.hpp
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/FigureGeometrique.hpp
+Point.hpp
+/home/simon/Documents/c++/L3_CPP_etudiant/TP4/src/Point.hpp
+

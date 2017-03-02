@@ -1,0 +1,11 @@
+#include <iostream>
+
+struct Location{
+  int _idClient;
+  int _idProduit;
+
+  void afficherLocation() const{
+    std::cout << "Location (" << _idClient << ", " << _idProduit << ")"<< std::endl;
+  }
+
+}

@@ -1,0 +1,21 @@
+struct Noeud{
+  int _valeur;
+  Noeud * _suivant;
+};
+
+
+struct Liste{
+  Noeud * _tete;
+
+  Liste(){
+    
+  }
+
+  void ajouterDevant(int valeur){
+  }
+
+  int getTaille(){}
+
+  int getElement(int indice)
+  
+}
